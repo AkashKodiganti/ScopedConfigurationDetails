@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update sys_domain="global" table="sys_ui_module">
+    <sys_ui_module action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <application display_value="Scoped Configuration Details">de78cb5a4f112300e476b8de9310c76b</application>
+        <filter/>
+        <name>Detailed Tabs</name>
+        <order/>
+        <path/>
+        <path_relative_to_root>false</path_relative_to_root>
+        <roles>x_26255_scoped_con.user</roles>
+        <sys_class_name>sys_ui_module</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-10-24 12:16:51</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>1278cb5a4f112300e476b8de9310c76e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Detailed Tabs</sys_name>
+        <sys_package display_value="Scoped Configuration Details" source="x_26255_scoped_con">a97803964f112300e476b8de9310c72f</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Scoped Configuration Details">a97803964f112300e476b8de9310c72f</sys_scope>
+        <sys_update_name>sys_ui_module_1278cb5a4f112300e476b8de9310c76e</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-10-24 12:16:51</sys_updated_on>
+        <table>x_26255_scoped_con_detailed_tabs</table>
+        <uncancelable>false</uncancelable>
+        <view_name/>
+    </sys_ui_module>
+</record_update>
